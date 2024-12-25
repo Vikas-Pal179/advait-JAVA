@@ -1,0 +1,38 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 15, 2024, 7:36:22 PM
+    Author     : ubuntu
+*/
+
+.navbar .navbar-nav .nav-link:hover, .navbar .navbar-nav .active>.nav-link, .navbar .navbar-nav .nav-link.current, .navbar .navbar-nav .nav-link.show, .navbar .navbar-nav .show>.nav-link {
+    color: orange !important;
+    border-bottom: 3px solid orange !important;
+}
+.navbar .navbar-nav a.nav-link {
+    color: orange !important;
+}
+.request-form{
+    background-color: orange;
+}
+.filled-button{
+    background-color: orange !important;
+}
+.more-info .right-content em {
+    color:orange !important;
+}
+.more-text {
+    display: none;
+}
+.section-heading em {
+    color:orange;
+}
+.testimonial-item span {
+    color:orange;
+}
+.fun-facts em {
+    color:orange;
+}
+
